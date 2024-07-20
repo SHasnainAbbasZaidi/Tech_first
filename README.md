@@ -1,4 +1,4 @@
 # Tech_first
 my first project
 <br>
-Author - Hasnaian Zaidi
+Author - Hasnaian Zaidi (Tech-first)
